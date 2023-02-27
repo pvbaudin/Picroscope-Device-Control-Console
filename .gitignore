@@ -1,0 +1,7 @@
+**/.DS_Store
+**/users.py
+**/*.db
+**/.env
+**/*.swp
+**/Plotly-Dash-Picroscope-Console.code-workspace
+**/__pycache__/**
